@@ -13,13 +13,13 @@ This project focuses on classifying eye diseases using deep learning techniques.
 
 The **SpeedNet** architecture is specifically designed for efficient processing of medical images, optimizing both speed and accuracy. Below is a figure illustrating the architecture of SpeedNet:
 
-![SpeedNet Architecture](path_to_your_image/SpeedNet_Architecture.png)
+![SpeedNet Architecture](speednet_arch.jpg)
 
 ## Results
 
 The model is evaluated on several benchmark datasets for eye disease classification. Below is an example of the results obtained:
 
-![Results](path_to_your_image/Results_Figure.png)
+![Results](classification.png)
 
 The results demonstrate the model's ability to classify eye diseases with high accuracy, offering potential for real-time diagnostic assistance.
 
